@@ -6,6 +6,6 @@
 
 create-react-app 搭建脚手架 
 
-react-router react-redux antd-mobile  axios 
+react-router-dom react-redux antd-mobile  axios 
 
 ```
